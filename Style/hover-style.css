@@ -1,0 +1,10 @@
+.logo:hover {
+    text-shadow: -3px 0 10px var(--v4), 0 3px 10px var(--v4), 3px 0 10px var(--v4), 0 -3px 10px var(--v4);
+
+    transition: 0.5s;
+}
+
+nav div:hover{
+    scale: 1.2;
+    transition: 0.5s;
+}
