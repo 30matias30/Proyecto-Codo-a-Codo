@@ -1,0 +1,41 @@
+.raza-img {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#raza1 {
+    background-image: url(/Media/Images/Affenpinscher.jpg);
+}
+
+#raza2 {
+    background-image: url(/Media/Images/Afghan\ Hound.jpg);
+}
+
+#raza3 {
+    background-image: url(/Media/Images/Africanis.jpg);
+}
+
+#raza4 {
+    background-image: url(/Media/Images/Aidi.jpg);
+}
+
+#raza5 {
+    background-image: url(/Media/Images/Airedale\ Terrier.jpg);
+}
+
+#raza6 {
+    background-image: url(/Media/Images/Akbash.jpg);
+}
+
+#raza7 {
+    background-image: url(/Media/Images/Akita.jpeg);
+}
+
+#raza8 {
+    background-image: url(/Media/Images/Aksaray\ Malaklisi.jpg);
+}
+
+#raza9 {
+    background-image: url(/Media/Images/Alano\ Español.jpg);
+}
