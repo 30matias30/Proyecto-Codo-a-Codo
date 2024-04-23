@@ -24,7 +24,7 @@
                                                                     /* HEADER */
 
 header {
-    background-image: url(/Media/Background/Puppies.jpg);
+    background-image: url(/./Media/Background/Puppies.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
