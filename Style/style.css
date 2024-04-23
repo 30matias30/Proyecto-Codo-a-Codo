@@ -81,6 +81,10 @@ nav div{
     transition: 0.5s;
 }
 
+nav a {
+    color: var(--v4);
+}
+
                                                                 /* MAIN */
 
 main {
@@ -129,3 +133,61 @@ main {
     margin-left: 0.5rem;
 }
 
+                                                                    /*  CONTACT FORM */
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 3rem;
+
+    width: 100%;
+    height: 25rem;
+}
+
+.contact-container {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container {
+    background-color: var(--v2);
+    box-shadow: 0px 0px 10px 3px #00000040, 0px 0px 10px 3px #00000040, 0px 0px 10px 3px #00000040, 0px 0px 10px 3px #00000040;
+}
+
+.contact-container {
+    height: 80%;
+    border-radius: 20px;
+    padding: 1rem;
+}
+
+form {
+    display: flex;
+    flex-flow: column;
+}
+
+input {
+    margin: 0.5rem;
+}
+
+                                                                /*  FOOTER */
+
+footer {
+    margin-top: 3rem;
+    padding: 1rem;
+
+    background-color: var(--v3);
+
+    text-align: center;
+}
+
+span {
+    font-size: small;
+}
+
+a {
+    text-decoration: none;
+}
